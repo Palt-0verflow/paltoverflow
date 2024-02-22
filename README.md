@@ -1,6 +1,6 @@
-# palt-0verflow.github.io
+# [Paltoverflow](https://paltoverflow.com/)
 
-The offical frontpage for Palt 0verflow.
+The offical repository for the Palt 0verflow website.
 ##
 >Don't get the paltschwimen
 
